@@ -1,0 +1,53 @@
+.form-container {
+    margin: 5rem 25rem
+}
+
+label {
+    color: #000;
+    font-weight: 700;
+    font-size: 1.25rem;
+    display: block;
+    margin-top: 3rem;
+}
+
+input {
+    margin-top: 1rem;
+    width: 45rem;
+    height: 3.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid #4E598C;
+    padding: 1rem 2rem;
+}
+
+input::placeholder {
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #4F4F4F;
+}
+
+sup {
+    margin-left: 0.5rem;
+    color: #EB5757;
+}
+
+.lga {
+    width: 25rem;
+}
+
+.lga-state {
+    display: flex;
+}
+
+.state-label {
+    margin-left: 3rem;
+}
+
+select {
+    margin: 1rem 0 0 3rem;
+    width: 17rem;
+    height: 3.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid #4E598C;
+    padding: 1rem 2rem;
+
+}

@@ -1,0 +1,38 @@
+.container {
+    margin: 7rem 25rem 0;
+}
+
+.header{
+    color: #4E598C;
+    font-size: 2.25rem;
+    font-weight: 700; 
+}
+
+.progress-info {
+    color: #BDBDBD;
+    padding-top: 2.5rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    width: 36vw;
+}
+
+.bar {
+    width: 45rem;
+    background-color: #000000;
+    height: 0.2rem;
+    margin-top: 2rem;
+    border-radius: 1rem 0 0 1rem;
+}
+
+
+.progress {
+    width: 10rem;
+    height: 0.8rem;
+    background-color:#F2994A;
+    border-radius: 1rem;
+    position: absolute;
+    margin-top: -0.35rem;
+}
+
